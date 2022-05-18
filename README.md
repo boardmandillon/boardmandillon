@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @boardmandillon
-- 🌱 I’m currently learning - Mobile application development
+- 🌱 I’m currently learning - Mobile Application Development
 - 📫 How to reach me - dillonboardman@hotmail.com
 
 <!---
